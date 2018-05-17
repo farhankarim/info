@@ -7,6 +7,8 @@ This repository includes all the general information you'll ever need in pursuin
 - [influential people](/people_in_ai.md) in AI you can follow
 - [honest advice](/honest_advice_for_employment.md) on how to get employed in the domain
 - A curated list of [awesome Machine Learning frameworks, libraries and software](https://github.com/josephmisiti/awesome-machine-learning). 
+- A topic-centric [list](https://github.com/awesomedata/awesome-public-datasets) of high-quality datasets for practicing AI.<br /> **Note**:Make sure you read the terms and conditions laid down in the User Agreement if you wish to use these datasets for commercial use.
+
 
 ## Contributions
 This page is completeley maintained by volunteers! If you feel that this guide must include more information then simply start an issue, create a pull request or email at anasayubi7152@gmail.com (in case you are unfamiliar with github). If you come across the following information that is not present in the repository then please contribute:
